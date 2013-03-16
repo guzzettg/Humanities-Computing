@@ -1,0 +1,5 @@
+**From a problem to a program**
+The first step will be to clearly define the problem.
+Then you create an algorithm, a sequence of steps that will lead to a solution of the problem. You can do this in your //natural// language.
+Then you transform the algorithm in a program, a sequence of instructions in a language that the computer can understand.
+Then you run the program.
